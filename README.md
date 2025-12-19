@@ -11,6 +11,7 @@ limited formal biology coursework in my undergraduate degree, this repository
 serves as my bridge into the life science education I need to aquire to succeed.
 
 ## Topics Covered
+- Molecular and Cell Biology
 
 ##Structure
 Each directory contains:
