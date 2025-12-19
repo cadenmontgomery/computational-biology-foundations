@@ -1,4 +1,4 @@
-# computational-biology-foundations
+# Computational Biology Foundations
 
 This repository will document the foundational phase of what I wish to learn
 in the field of computational biology. I will be self-taught utilizing the
