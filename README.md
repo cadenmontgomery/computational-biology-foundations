@@ -13,7 +13,7 @@ serves as my bridge into the life science education I need to aquire to succeed.
 ## Topics Covered
 - Molecular and Cell Biology
 
-##Structure
+## Structure
 Each directory contains:
 - Conceptual notes
 - Implementations from scratch where appropriate
